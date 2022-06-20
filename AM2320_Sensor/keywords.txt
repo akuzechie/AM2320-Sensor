@@ -1,0 +1,5 @@
+AM2320_Sensor	KEYWORD1
+Initialize	KEYWORD2
+readSensorBytes	KEYWORD2
+getTemperature	KEYWORD2
+getHumidity	KEYWORD2
